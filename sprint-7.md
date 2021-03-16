@@ -7,3 +7,10 @@ Revisione dei back-end e front-end di tutte le pagine. (2 punti) Giada Venturini
 # Storia 3
 Cambiamento del wireframe per rendere le pagine più veritiere ed uguali possibile. (1 punto) Tutto il gruppo
 
+# Review 16 marzo
+- 1: OK
+- 2: OK
+- 3: OK
+100%
+
+
